@@ -19,7 +19,7 @@ const app = (
 //     <h1>hello</h1> */}</div>,
 //   document.querySelector("#root")
 // );
-ReactDOM.render(app, document.querySelector("#header"));
+ReactDOM.render(app, document.querySelector("#root"));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

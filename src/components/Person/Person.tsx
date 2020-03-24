@@ -2,8 +2,8 @@ import React from 'react';
 
 type personProps = {
     name: string;
-    age: string;
-    children: string;
+    age: number;
+    children?: string;
 };
 
 // interface personProps {
